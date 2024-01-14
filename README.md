@@ -2,7 +2,10 @@
 The readme file has information about personal projects, worked during Undergraduation and Masters.
 
 # Student Portal Microservices [Java, Node.js, NestJS, React]
-    3 Microservices consisting of Student, Library and Financial implemented using Java for 2 services and 1 using Node.js(NestJS). The frontend was implemented using React. PostgreSQL was used to implement database for these services.
+    3 Microservices consisting of Student, Library and Financial implemented using Java for 2 services and 1 using Node.js(NestJS). 
+    The frontend was implemented using React. 
+    PostgreSQL was used to implement database for these services. 
+    These services are present publicly at https://github.com/deepakkumar27J
 # Image Recognition on Cifar-10 [Python, Keras, Numpy]
      Recognized images from noisy cifar-10 data using ensemble of 3 deep neural networks and tree ensemble.
 # Building and Analyzing a Data Warehouse for Metro Store in Islamabad [MySQL, Oracle db]
